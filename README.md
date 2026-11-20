@@ -92,6 +92,10 @@ This calculates the overall average using total revenue divided by total orders,
 
 The dashboard uses the ₹ symbol as a display format. The original dataset's monetary values were not converted from Brazilian Real to Indian Rupees. Therefore, the symbol should not be interpreted as a currency conversion.
 
+## Power BI Dashboard File
+
+[Download the Power BI Dashboard (.pbix)](./monthly_revenue.pbix)
+
 ## Dashboard Screenshots
 
 ### 1. Monthly Sales Performance
